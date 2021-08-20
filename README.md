@@ -1,15 +1,14 @@
-# Reto3_Santiago_Juan
-Desarrollo de programacion de turtlebot 
+# Challenge3_Santiago_Juan
+Development of turtlebot programming 
 
-Tutoriales:
-# instalación de ROS:
+Tutorials:
+# ROS installation:
 http://wiki.ros.org/kinetic/Installation/Ubuntu
 
-# Libreria para sensor Hokuyo
+# Hokuyo sensor library
 https://github.com/SkoltechRobotics/hokuyolx
 
 http://www.daslhub.org/unlv/wiki/doku.php?id=using_ros_to_read_data_from_a_hokuyo_scanning_laser_rangefinder
 
-# Libreria para mover el turtlebot con rospy
+# library to move the turtlebot with rospy
 https://github.com/markwsilliman/turtlebot
-
